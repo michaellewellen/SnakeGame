@@ -1,0 +1,5 @@
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfo.cs
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.sourcelink.json

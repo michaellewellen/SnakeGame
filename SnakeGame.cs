@@ -1,6 +1,6 @@
 namespace SnakeGameApp
 {
-    public class SnakeGameApp
+    public class SnakeGame
     {
         #region Constants
         private const int GridWidth = 50;
@@ -96,7 +96,7 @@ namespace SnakeGameApp
             };
         }
 
-        private (int x, int y) SpawnApple()
+        internal (int x, int y) SpawnApple()
         {
             int ax, ay;
             do
