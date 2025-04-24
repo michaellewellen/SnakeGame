@@ -4,7 +4,7 @@
     {
         public static async Task Main()
         {
-            var game = new SnakeGameApp();
+            var game = new SnakeGame();
             await game.RunAsync();
         }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ysZVrAMO4L8=",
+  "dgSpecHash": "i3NWIpNiqPI=",
   "success": true,
   "projectFilePath": "C:\\Users\\michael.lewellen\\SnakeGame\\SnakeGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.10\\microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.10\\microsoft.windowsdesktop.app.ref.8.0.10.nupkg.sha512",
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.10\\microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.10\\microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
   "logs": []
 }

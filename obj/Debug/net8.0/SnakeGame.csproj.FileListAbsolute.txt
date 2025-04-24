@@ -3,3 +3,13 @@ C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfoInput
 C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfo.cs
 C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.csproj.CoreCompileInputs.cache
 C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.sourcelink.json
+C:\Users\michael.lewellen\SnakeGame\bin\Debug\net8.0\SnakeGame.exe
+C:\Users\michael.lewellen\SnakeGame\bin\Debug\net8.0\SnakeGame.deps.json
+C:\Users\michael.lewellen\SnakeGame\bin\Debug\net8.0\SnakeGame.runtimeconfig.json
+C:\Users\michael.lewellen\SnakeGame\bin\Debug\net8.0\SnakeGame.dll
+C:\Users\michael.lewellen\SnakeGame\bin\Debug\net8.0\SnakeGame.pdb
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.dll
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\refint\SnakeGame.dll
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.pdb
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\SnakeGame.genruntimeconfig.cache
+C:\Users\michael.lewellen\SnakeGame\obj\Debug\net8.0\ref\SnakeGame.dll
